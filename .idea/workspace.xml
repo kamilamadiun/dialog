@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="172afdbb-f85b-4a7d-9b00-ec210c3094ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2104EZsdQMpWTBxyIMxEOyzbLE9" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs.jest.jest_package" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\css" />
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\js" />
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\libs\old-carousel" />
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\images\overlay" />
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\libs\fontello" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\libs\old-carousel" />
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src\js" />
+      <recent name="C:\Users\user\Desktop\it-Ran\project2\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="172afdbb-f85b-4a7d-9b00-ec210c3094ca" name="Default Changelist" comment="" />
+      <created>1637064559380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637064559380</updated>
+      <workItem from="1637064562864" duration="1445000" />
+      <workItem from="1637140324177" duration="3958000" />
+      <workItem from="1637144762594" duration="11373000" />
+      <workItem from="1637227323342" duration="10000" />
+      <workItem from="1637237531489" duration="5849000" />
+      <workItem from="1637511641114" duration="3872000" />
+      <workItem from="1637595772384" duration="497000" />
+      <workItem from="1637657872948" duration="4274000" />
+      <workItem from="1637669346940" duration="3333000" />
+      <workItem from="1637672740587" duration="832000" />
+      <workItem from="1637673704457" duration="47000" />
+      <workItem from="1637750561280" duration="206000" />
+      <workItem from="1637836718826" duration="940000" />
+      <workItem from="1637842402841" duration="3892000" />
+      <workItem from="1637922845895" duration="1084000" />
+      <workItem from="1637924464420" duration="13000" />
+      <workItem from="1637924800882" duration="67000" />
+      <workItem from="1637925208625" duration="14000" />
+      <workItem from="1637949130092" duration="10229000" />
+      <workItem from="1638009221239" duration="17000" />
+      <workItem from="1638009314176" duration="38000" />
+      <workItem from="1638009657225" duration="15000" />
+      <workItem from="1638009727121" duration="12000" />
+      <workItem from="1638009742852" duration="2000" />
+      <workItem from="1638009764737" duration="29000" />
+      <workItem from="1638009855630" duration="31000" />
+      <workItem from="1638015336829" duration="2232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637141579936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1637141579936" />
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1637064938535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1637064938535" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1637661824119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1637661824119" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/main.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

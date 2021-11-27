@@ -1,0 +1,51 @@
+.welcome{
+  padding: 54px 0 100px;
+  &__title{
+    font-family: Montserrat,sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 130%;
+    text-align: center;
+    color: #23283B;
+    margin: 22px 0 42px;
+  }
+  &__video{
+    padding: 180px 0;
+    margin: 0 auto;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    max-width: 770px;
+    width: 100%;
+    position: relative;
+    background: url("../images/welcome/bg.png") center/cover no-repeat;
+    &::before{
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #3035C3;
+      opacity: 0.6;
+      border-radius: 12px;
+      transform: matrix(-1,0,0,1,0,0);
+      z-index: 1;
+    }
+    &-play{
+      width: 80px;
+      height: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: white;
+      position: relative;
+      border-radius: 50%;
+      z-index: 2;
+      font-size: 35px;
+    }
+  }
+}
